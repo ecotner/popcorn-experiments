@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "popcorn-experiment"
 version = "0.1.0"
-description = "Experimentation to find the best way to cook popcorn"
+description = "Experiments to find the best way to cook popcorn"
 authors = ["ecotner <2.71828cotner@gmail.com>"]
 readme = "README.md"
 

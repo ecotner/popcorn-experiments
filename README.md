@@ -48,7 +48,7 @@ References:
 ## Experiment 1: factorial analysis of stove-top cooking techniques
 Investigating multiple independent factors of the cooking process so see which ones are the most impactful on popcorn quality.
 Experiment is still in progress.
-See [notebook](./experiments/exp001/untitled.ipynb) for details.
+See [notebook](./experiments/exp001/exp001.ipynb) for details.
 
 ## Future experiment ideas:
 

@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "popcorn-experiment"
+version = "0.1.0"
+description = "Experimentation to find the best way to cook popcorn"
+authors = ["ecotner <2.71828cotner@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydoe2 = "^1.3.0"
+numpy = "^1.26.3"
+matplotlib = "^3.8.2"
+tqdm = "^4.66.1"
+pandas = "^2.1.4"
+statsmodels = "^0.14.1"
+pyyaml = "^6.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

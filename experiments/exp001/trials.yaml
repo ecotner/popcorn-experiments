@@ -1,0 +1,53 @@
+### template ###
+# # context
+# trial: 
+# timestamp:
+# # treatment factors
+# brand: (Sig. Select White | Jolly Time Yellow)
+# temp. profile: (cold start | pre-heat)
+# temp. magnitude: (4.5/9 | 6.5/9)
+# oil: (no | yes)
+# kernel qty: (1/4 cup | 1/2 cup)
+# agitation: (1/(15 sec) | 1/(1 minute))
+# steam release: (pot lid | wire mesh)
+# # other
+# bag num:
+# # observables
+# kernel mass (g):
+# popped mass (g):
+# popped volume (cup):
+# inedible mass (g):
+# inedible volume (cup):
+# time to first pop:
+# total duration:
+# burn rating (*/10):
+# crispiness rating (*/10):
+# overall quality (*/10):
+# notes:
+######
+
+# context
+trial: 0
+timestamp: 2024-01-19T23:45:00-08:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: cold start
+temp. magnitude: 6.5/9
+oil: no
+kernel qty: 1/2 cup
+agitation: 1/(15 sec)
+steam release: pot lid
+# other
+bag num: 0
+# observables
+kernel mass (g): 125
+popped mass (g): 111
+popped volume (cup): 9.45
+inedible mass (g): 52
+inedible volume (cup): 0.7
+time to first pop: 4m30s
+total duration: 6m30s
+burn rating (*/10): 4
+crispiness rating (*/10): 6
+overall quality (*/10): 5
+notes: First experiment. Purchased brand new kernels of both types. Realized that if I need to go through multiple bags in the future, the bags could be a nuisance factor, so I need to keep track of them. No lot/batch numbers on bags, so I'll label them with numbers of my own. There was so much popcorn to eat and so much of it was inedible that I was only able to finish about 75% of it in one go, and finished the rest the next morning. Getting through the end is so much of a slog I'm going to have to start raising my standards for what passes as "edible" so that I can reject kernels and get through it faster! I think I also cut my tongue on the sharp bits of the kernels, so will need to be more careful about that.

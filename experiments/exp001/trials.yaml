@@ -1,4 +1,6 @@
-### template ###
+### trial template ###
+# ---
+#
 # # context
 # trial: 
 # timestamp:
@@ -51,3 +53,31 @@ burn rating (*/10): 4
 crispiness rating (*/10): 6
 overall quality (*/10): 5
 notes: First experiment. Purchased brand new kernels of both types. Realized that if I need to go through multiple bags in the future, the bags could be a nuisance factor, so I need to keep track of them. No lot/batch numbers on bags, so I'll label them with numbers of my own. There was so much popcorn to eat and so much of it was inedible that I was only able to finish about 75% of it in one go, and finished the rest the next morning. Getting through the end is so much of a slog I'm going to have to start raising my standards for what passes as "edible" so that I can reject kernels and get through it faster! I think I also cut my tongue on the sharp bits of the kernels, so will need to be more careful about that.
+
+---
+
+# context
+trial: 1
+timestamp: 2024-01-28T13:30:00-08:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: cold start
+temp. magnitude: 5/9
+oil: no
+kernel qty: 1/4 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 56
+popped mass (g): 50
+popped volume (cup): 5.16
+inedible mass (g): 7
+inedible volume (cup): 0.125
+time to first pop: 8m44s
+total duration: 12m0s
+burn rating (*/10): 2
+crispiness rating (*/10): 8
+overall quality (*/10): 8
+notes: Kernels hadn't popped after 7m30, so I increased the heat to 5/9; they started popping about 30s afterward. Perhaps the wire mesh lid led to too much heat loss? Either way, I will start using 5/9 as the lower level of the temperature magnitude variable from now on. The temporal distribution of individual kernel pops was very heavy-tailed, so I kept it on the stove a little longer than normal here, which may have increased burn severity. The quality of this trial was significantly better than the previous, and I suspect it is mostly due to the different brand of kernel, but need more evidence to be sure.

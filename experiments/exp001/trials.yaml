@@ -81,3 +81,31 @@ burn rating (*/10): 2
 crispiness rating (*/10): 8
 overall quality (*/10): 8
 notes: Kernels hadn't popped after 7m30, so I increased the heat to 5/9; they started popping about 30s afterward. Perhaps the wire mesh lid led to too much heat loss? Either way, I will start using 5/9 as the lower level of the temperature magnitude variable from now on. The temporal distribution of individual kernel pops was very heavy-tailed, so I kept it on the stove a little longer than normal here, which may have increased burn severity. The quality of this trial was significantly better than the previous, and I suspect it is mostly due to the different brand of kernel, but need more evidence to be sure.
+
+---
+
+# context
+trial: 2
+timestamp: 2024-01-30T18:38:00-08:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 97
+popped mass (g): 96
+popped volume (cup): 9.0
+inedible mass (g): 16
+inedible volume (cup): 0.225
+time to first pop: 2m0s
+total duration: 4m30s
+burn rating (*/10): 3
+crispiness rating (*/10): 6
+overall quality (*/10): 6
+notes: Apparent mass of popped kernels is likely inflated because of oil added. Wonder if I can infer oil density from data by adding a term to account for it in the regression of popped mass?

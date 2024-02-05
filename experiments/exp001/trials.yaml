@@ -29,7 +29,7 @@
 ######
 
 # context
-trial: 0
+trial: -4
 timestamp: 2024-01-19T23:45:00-08:00
 # treatment factors
 brand: Sig. Select White
@@ -57,7 +57,7 @@ notes: First experiment. Purchased brand new kernels of both types. Realized tha
 ---
 
 # context
-trial: 1
+trial: -3
 timestamp: 2024-01-28T13:30:00-08:00
 # treatment factors
 brand: Jolly Time Yellow
@@ -85,7 +85,7 @@ notes: Kernels hadn't popped after 7m30, so I increased the heat to 5/9; they st
 ---
 
 # context
-trial: 2
+trial: -2
 timestamp: 2024-01-30T18:38:00-08:00
 # treatment factors
 brand: Jolly Time Yellow
@@ -113,7 +113,7 @@ notes: Apparent mass of popped kernels is likely inflated because of oil added. 
 ---
 
 # context
-trial: 3
+trial: -1
 timestamp: 2023-02-04T20:45:00-08:00
 # treatment factors
 brand: Sig. Select White
@@ -137,3 +137,7 @@ burn rating (*/10): 1
 crispiness rating (*/10): 8
 overall quality (*/10): 7
 notes: Noticed that the mass of the popped kernels is higher than the unpopped kernels this time; I think it's highly likely the oil is the culprit.
+
+### Note: all data above this point was taken under a misspecified Plackett-Burman
+### design. We can still use it for analysis, but I'm going to start the
+### experiment over again from this point.

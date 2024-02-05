@@ -109,3 +109,31 @@ burn rating (*/10): 3
 crispiness rating (*/10): 6
 overall quality (*/10): 6
 notes: Apparent mass of popped kernels is likely inflated because of oil added. Wonder if I can infer oil density from data by adding a term to account for it in the regression of popped mass?
+
+---
+
+# context
+trial: 3
+timestamp: 2023-02-04T20:45:00-08:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: cold start
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/4 cup
+agitation: 1/(1 minute)
+steam release: wire mesh
+# other
+bag num: 0
+# observables
+kernel mass (g): 52
+popped mass (g): 53
+popped volume (cup): 5.65
+inedible mass (g): 6
+inedible volume (cup): 0.0625
+time to first pop: 3m32s
+total duration: 5m27s
+burn rating (*/10): 1
+crispiness rating (*/10): 8
+overall quality (*/10): 7
+notes: Noticed that the mass of the popped kernels is higher than the unpopped kernels this time; I think it's highly likely the oil is the culprit.

@@ -7,7 +7,7 @@
 # # treatment factors
 # brand: (Sig. Select White | Jolly Time Yellow)
 # temp. profile: (cold start | pre-heat)
-# temp. magnitude: (4.5/9 | 6.5/9)
+# temp. magnitude: (5/9 | 6.5/9)
 # oil: (no | yes)
 # kernel qty: (1/4 cup | 1/2 cup)
 # agitation: (1/(15 sec) | 1/(1 minute))
@@ -141,3 +141,115 @@ notes: Noticed that the mass of the popped kernels is higher than the unpopped k
 ### Note: all data above this point was taken under a misspecified Plackett-Burman
 ### design. We can still use it for analysis, but I'm going to start the
 ### experiment over again from this point.
+
+---
+
+# context
+trial: 0
+timestamp: 2024-02-23T20:33:00-08:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 5/9
+oil: no
+kernel qty: 1/2 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 91
+popped mass (g): 78
+popped volume (cup): 5.45
+inedible mass (g): 41
+inedible volume (cup): 0.5
+time to first pop: 1m33s
+total duration: 3m39s
+burn rating (*/10): 2
+crispiness rating (*/10): 6
+overall quality (*/10): 4
+notes: Noticed the first kernels to pop were very weak; they were probably the weakest.
+
+---
+
+# context
+trial: 1
+timestamp: 2024-03-05T19:04:00-08:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(1 minute)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 108
+popped mass (g): 110
+popped volume (cup): 9.5
+inedible mass (g): 21
+inedible volume (cup): 0.33
+time to first pop: 0m30s
+total duration: 2m30s
+burn rating (*/10): 1
+crispiness rating (*/10): 6
+overall quality (*/10): 7
+notes: Totally fucked up the timing measurements. Seems like a lot of the popped kernels had very dense centers, and the material was a little bit chewy.
+
+---
+
+# context
+trial: 2
+timestamp:
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 101
+popped mass (g): 103
+popped volume (cup): 11.4
+inedible mass (g): 6
+inedible volume (cup): 0.0625
+time to first pop: 0m45s
+total duration: 2m40s
+burn rating (*/10): 0
+crispiness rating (*/10): 8
+overall quality (*/10): 8
+notes: Probably the best one yet, though the popped kernels were a little bit chewy when they were dense.
+
+---
+
+# context
+trial: 3
+timestamp: 2024-04-11T16:48:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: cold start
+temp. magnitude: 6.5/9
+oil: no
+kernel qty: 1/2 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 105
+popped mass (g): 92
+popped volume (cup): 6.9
+inedible mass (g): 45
+inedible volume (cup): 0.55
+time to first pop: 4m50s
+total duration: 6m45s
+burn rating (*/10): 2
+crispiness rating (*/10): 8
+overall quality (*/10): 5
+notes: So many unpopped kernels!

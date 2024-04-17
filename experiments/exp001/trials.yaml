@@ -202,7 +202,7 @@ notes: Totally fucked up the timing measurements. Seems like a lot of the popped
 
 # context
 trial: 2
-timestamp:
+timestamp: 2024-03-25T19:54:00-07:00
 # treatment factors
 brand: Jolly Time Yellow
 temp. profile: pre-heat

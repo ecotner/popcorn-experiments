@@ -253,3 +253,59 @@ burn rating (*/10): 2
 crispiness rating (*/10): 8
 overall quality (*/10): 5
 notes: So many unpopped kernels!
+
+---
+
+# context
+trial: 4
+timestamp: 2024-04-16T19:25:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: no
+kernel qty: 1/2 cup
+agitation: 1/(1 minute)
+steam release: pot lid
+# other
+bag num: 1
+# observables
+kernel mass (g): 95
+popped mass (g): 79
+popped volume (cup): 1.9
+inedible mass (g): 79
+inedible volume (cup): 1.9
+time to first pop: 1m0s
+total duration: 3m30s
+burn rating (*/10): 10
+crispiness rating (*/10): 2
+overall quality (*/10): 1
+notes: This one was burned to shit... complete failure! Looks like almost 1/2 of the kernels were unpopped too. I didn't even bother eating it. I'm pretty sure the age of these kernels is a major factor, as it has been several months since I first bought them.
+
+---
+
+# context
+trial: 5
+timestamp: 2024-04-16T19:44:00-07:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: cold start
+temp. magnitude: 5/9
+oil: yes
+kernel qty: 1/4 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 0
+# observables
+kernel mass (g): 59
+popped mass (g): 62
+popped volume (cup): 7.8
+inedible mass (g): 0
+inedible volume (cup): 0
+time to first pop: 4m8s
+total duration: 6m58s
+burn rating (*/10): 0
+crispiness rating (*/10): 10
+overall quality (*/10): 10
+notes: Absolutely fantastic. There were a couple small kernel fragments that couldn't be eaten but they were so few that they didn't even register on the scale. This brand perhaps might not be as affected by age as the other one?

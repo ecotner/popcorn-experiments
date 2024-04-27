@@ -309,3 +309,31 @@ burn rating (*/10): 0
 crispiness rating (*/10): 10
 overall quality (*/10): 10
 notes: Absolutely fantastic. There were a couple small kernel fragments that couldn't be eaten but they were so few that they didn't even register on the scale. This brand perhaps might not be as affected by age as the other one?
+
+---
+
+# context
+trial:  6
+timestamp: 2024-04-26T19:35:00-07:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: cold start
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/4 cup
+agitation: 1/(15 sec)
+steam release: pot lid
+# other
+bag num: 0
+# observables
+kernel mass (g): 50
+popped mass (g): 59
+popped volume (cup): 6.7
+inedible mass (g): 0
+inedible volume (cup): 0
+time to first pop: 3m44s
+total duration: 5m20s
+burn rating (*/10): 0
+crispiness rating (*/10): 9
+overall quality (*/10): 9
+notes: Though the inedible mass/volume both measured at zero, there were about 10 kernels that I would consider inedible.

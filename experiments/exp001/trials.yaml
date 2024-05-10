@@ -114,7 +114,7 @@ notes: Apparent mass of popped kernels is likely inflated because of oil added. 
 
 # context
 trial: -1
-timestamp: 2023-02-04T20:45:00-08:00
+timestamp: 2024-02-04T20:45:00-08:00
 # treatment factors
 brand: Sig. Select White
 temp. profile: cold start
@@ -337,3 +337,31 @@ burn rating (*/10): 0
 crispiness rating (*/10): 9
 overall quality (*/10): 9
 notes: Though the inedible mass/volume both measured at zero, there were about 10 kernels that I would consider inedible.
+
+---
+
+# context
+trial: 7
+timestamp: 2024-05-09T17:37:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 5/9
+oil: yes
+kernel qty: 1/4 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 46
+popped mass (g): 47
+popped volume (cup): 4.6
+inedible mass (g): 5
+inedible volume (cup): 0.09375
+time to first pop: 0m29s
+total duration: 2m52s
+burn rating (*/10): 0
+crispiness rating (*/10): 7
+overall quality (*/10): 7
+notes:

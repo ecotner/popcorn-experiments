@@ -365,3 +365,87 @@ burn rating (*/10): 0
 crispiness rating (*/10): 7
 overall quality (*/10): 7
 notes:
+
+---
+
+# context
+trial: 8
+timestamp: 2024-05-10T18:36:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(1 minute)
+steam release: pot lid
+# other
+bag num: 1
+# observables
+kernel mass (g): 108
+popped mass (g): 108
+popped volume (cup): 10.5
+inedible mass (g): 8
+inedible volume (cup): 0.1
+time to first pop: 0m45s
+total duration: 4m40s
+burn rating (*/10): 1
+crispiness rating (*/10): 8
+overall quality (*/10): 7
+notes:
+
+---
+
+# context
+trial: 9
+timestamp: 2024-05-14T19:50:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/4 cup
+agitation: 1/(1 minute)
+steam release: pot lid
+# other
+bag num: 1
+# observables
+kernel mass (g): 48
+popped mass (g): 51
+popped volume (cup): 3.95
+inedible mass (g): 9
+inedible volume (cup): 0.083
+time to first pop: 0m16s
+total duration: 1m46s
+burn rating (*/10): 3
+crispiness rating (*/10): 8
+overall quality (*/10): 6
+notes:
+
+---
+
+# context
+trial: 10
+timestamp: 2024-05-19T19:54:00-07:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: cold start
+temp. magnitude: 5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(1 minute)
+steam release: pot lid
+# other
+bag num: 0
+# observables
+kernel mass (g): 103
+popped mass (g): 109
+popped volume (cup): 12.55
+inedible mass (g): 0
+inedible volume (cup): 0.0208333
+time to first pop: 7m36s
+total duration: 11m35s
+burn rating (*/10): 1
+crispiness rating (*/10): 9
+overall quality (*/10): 9
+notes:

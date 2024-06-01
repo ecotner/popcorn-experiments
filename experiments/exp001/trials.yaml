@@ -449,3 +449,59 @@ burn rating (*/10): 1
 crispiness rating (*/10): 9
 overall quality (*/10): 9
 notes:
+
+---
+
+# context
+trial: 11
+timestamp: 2024-05-27T20:22:00-07:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: pre-heat
+temp. magnitude: 5/9
+oil: no
+kernel qty: 1/2 cup
+agitation: 1/(1 minute)
+steam release: pot lid
+# other
+bag num: 0
+# observables
+kernel mass (g): 106
+popped mass (g): 94
+popped volume (cup): 7.2
+inedible mass (g): 39
+inedible volume (cup): 0.5
+time to first pop: 1m50s
+total duration: 4m50s
+burn rating (*/10): 1
+crispiness rating (*/10): 7
+overall quality (*/10): 3
+notes: initial popped kernels were weak
+
+---
+
+# context
+trial: 12
+timestamp: 2024-05-30T20:42:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: no
+kernel qty: 1/4 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 1
+# observables
+kernel mass (g): 43
+popped mass (g): 37
+popped volume (cup): 1.05
+inedible mass (g): 36
+inedible volume (cup): 0.5
+time to first pop: 0m51s
+total duration: 2m40s
+burn rating (*/10): 8
+crispiness rating (*/10): 4
+overall quality (*/10): 2
+notes: Everything was burned and barely any kernels were popped. I think the inedible mas is so high compared to the kernel mass because of absorption of my saliva; the dry weight is probably much lower.

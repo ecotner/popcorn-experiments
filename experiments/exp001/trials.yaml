@@ -504,4 +504,88 @@ total duration: 2m40s
 burn rating (*/10): 8
 crispiness rating (*/10): 4
 overall quality (*/10): 2
-notes: Everything was burned and barely any kernels were popped. I think the inedible mas is so high compared to the kernel mass because of absorption of my saliva; the dry weight is probably much lower.
+notes: Everything was burned and barely any kernels were popped. I think the inedible mas is so high compared to the kernel mass because of absorption of my saliva; the dry weight is probably much lower
+
+---
+
+# context
+trial: 13
+timestamp: 2024-06-05T02:22:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: cold start
+temp. magnitude: 5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(15 sec)
+steam release: wire mesh
+# other
+bag num: 2
+# observables
+kernel mass (g): 96
+popped mass (g): 101
+popped volume (cup): 12
+inedible mass (g): 3
+inedible volume (cup): 0.0625
+time to first pop: 7m39s
+total duration: 11m30s
+burn rating (*/10): 1
+crispiness rating (*/10): 9
+overall quality (*/10): 8
+notes:
+
+---
+
+# context
+trial: 14
+timestamp: 2024-06-20T21:41:00-07:00
+# treatment factors
+brand: Jolly Time Yellow
+temp. profile: cold start
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/4 cup
+agitation: 1/(1 minute)
+steam release: wire mesh
+# other
+bag num: 2
+# observables
+kernel mass (g): 53
+popped mass (g): 53
+popped volume (cup): 5.125
+inedible mass (g): 5
+inedible volume (cup): 0.0625
+time to first pop: 3m43s
+total duration: 5m19s
+burn rating (*/10): 1
+crispiness rating (*/10): 7
+overall quality (*/10): 7
+notes: Neil washed the pot so there was a clean surface. I've just been letting oil accumulate so far.
+
+---
+
+# context
+trial: 15
+timestamp: 2024-06-21T16:16:00-07:00
+# treatment factors
+brand: Sig. Select White
+temp. profile: pre-heat
+temp. magnitude: 6.5/9
+oil: yes
+kernel qty: 1/2 cup
+agitation: 1/(1 minute)
+steam release: pot lid
+# other
+bag num: 0
+# observables
+kernel mass (g): 95
+popped mass (g): 107
+popped volume (cup): 11
+inedible mass (g): 3
+inedible volume (cup): 0.0625
+time to first pop: 0m34s
+total duration: 3m30s
+burn rating (*/10): 4
+crispiness rating (*/10): 9
+overall quality (*/10): 6
+notes: Left it on probably a bit too long ans was slightly burned.
